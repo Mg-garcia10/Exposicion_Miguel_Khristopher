@@ -63,6 +63,7 @@ public class Veterinaria {
         this.valoracion = valoracion;
     }
     //metodo para 
+    //metodo para mostrar la informacion desde el main
     public void Informacion() {
         System.out.println("Informacion de la Clinica Veterinaria:");
         System.out.println("Nombre: " + nombre);
